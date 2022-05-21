@@ -1,0 +1,19 @@
+.pink {
+    background: #ffa7a7;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#one {
+    color: blue;
+    font-size: 36px;
+}
+
+.bold {
+    font-size: 24px;
+}
+
+#bolder {
+    background: #80ff80;
+    font-size: 24px;
+    font-weight: bold;
+}
